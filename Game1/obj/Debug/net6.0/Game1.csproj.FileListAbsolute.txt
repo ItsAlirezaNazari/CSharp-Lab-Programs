@@ -1,0 +1,15 @@
+C:\Users\It's Alireza\Desktop\Game1\bin\Debug\net6.0\Game1.exe
+C:\Users\It's Alireza\Desktop\Game1\bin\Debug\net6.0\Game1.deps.json
+C:\Users\It's Alireza\Desktop\Game1\bin\Debug\net6.0\Game1.runtimeconfig.json
+C:\Users\It's Alireza\Desktop\Game1\bin\Debug\net6.0\Game1.dll
+C:\Users\It's Alireza\Desktop\Game1\bin\Debug\net6.0\Game1.pdb
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.csproj.AssemblyReference.cache
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.AssemblyInfoInputs.cache
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.AssemblyInfo.cs
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.csproj.CoreCompileInputs.cache
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.dll
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\refint\Game1.dll
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.pdb
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\Game1.genruntimeconfig.cache
+C:\Users\It's Alireza\Desktop\Game1\obj\Debug\net6.0\ref\Game1.dll
