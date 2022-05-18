@@ -1,0 +1,17 @@
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\bin\Debug\net6.0-windows\2048.exe
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\bin\Debug\net6.0-windows\2048.deps.json
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\bin\Debug\net6.0-windows\2048.runtimeconfig.json
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\bin\Debug\net6.0-windows\2048.dll
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\bin\Debug\net6.0-windows\2048.pdb
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.csproj.AssemblyReference.cache
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\_2048.Form1.resources
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.csproj.GenerateResource.cache
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.AssemblyInfoInputs.cache
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.AssemblyInfo.cs
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.csproj.CoreCompileInputs.cache
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.dll
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\refint\2048.dll
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.pdb
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\2048.genruntimeconfig.cache
+D:\University\Karshenasi\Term 2\بازی سازی\C#_Programming\2048\2048\obj\Debug\net6.0-windows\ref\2048.dll
